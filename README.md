@@ -16,7 +16,7 @@ The main objective is to uncover how sad songs correlate with feelings of FOMO (
 - Google Form responses about emotional impact, listening context, and music preferences related to sad songs.
 
 
-## 📊 Analysis & Visualization  
+##  Analysis & Visualization  
 Data was analyzed using Python (Google Colab) and Google Spreadsheet. The visualizations include:
 - 🟠 *Pie Chart:* Proportion of sad vs non-sad songs
 - 🔵 *Line Chart:* Monthly trend of listening to sad songs
@@ -41,4 +41,4 @@ This project was developed with assistance from AI tools such as ChatGPT and Gem
 
 
 ## 📃 License  
-This project was created for educational and non-commercial use only. All data are personal and curated based on real listening experiences.
+This project was created for educational and non-commercial use only. All data are personal and curated based on real listening experiences. Please do not reuse, reproduce or redistribute without permission.
